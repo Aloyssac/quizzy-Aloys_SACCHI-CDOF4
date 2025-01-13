@@ -24,6 +24,12 @@ Start the quiz with:
 python quizzy.py
 ```
 
+### How to Play
+- You will be presented with 7 multiple-choice questions about Bitcoin.
+- For each question, you have 30 seconds to answer.
+- If you don't answer within the time limit, the question will be marked as incorrect and the quiz will move to the next question.
+- Try to answer all questions correctly to become a Bitcoin expert!
+
 ## How to Contribute
 1. **Fork this repository.**
 2. **Clone your fork:**
